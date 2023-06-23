@@ -21,8 +21,12 @@ This Python script implements an AI Text-Image App using the Streamlit framework
 
 ## Running the App
 
-- The `AI_app()` function is called within the `__main__` block to run the Streamlit app.
-- To run the app, execute the Python script, and the Streamlit server will start, allowing you to access the AI Text-Image App in your web browser.
+To run the app, execute the Python script using the following command:
+```
+streamlit run app.py
+```
+
+The Streamlit server will start, allowing you to access the AI Text-Image App in your web browser.
 
 ---
 
