@@ -21,6 +21,11 @@ This Python script implements an AI Text-Image App using the Streamlit framework
 
 ## Running the App
 
+To clone the repo execute the following command:
+'''
+git clone https://github.com/jassercmk1/AI-Text-to-Image-app.git
+'''
+
 To run the app, execute the Python script using the following command:
 ```
 streamlit run app.py
